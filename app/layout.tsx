@@ -31,8 +31,8 @@ export default function RootLayout({
     </header>
   );
   const footer = (
-    <footer className="text-center border-t border-slate-500 mt-6 py-6">
-      Footer
+    <footer className="text-center border-t mt-6 py-4">
+      <p>Obsessive consumption of the right information &gt;&gt;&gt;</p>
     </footer>
   );
   return (
